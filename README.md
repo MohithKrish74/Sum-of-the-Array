@@ -1,1 +1,0 @@
-# Sum-of-the-Array
